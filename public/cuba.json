@@ -1,0 +1,9 @@
+{"type": "FeatureCollection","features": [
+{"type": "Feature","geometry": {"type": "Point","coordinates": [ -82.386389,23.1225 ]},"properties": {"type": "town", "name": "Havana"}},
+{"type": "Feature","geometry": {"type": "Point","coordinates": [ -80.45,22.15 ]},"properties": {"type": "town", "name": "Cienfuegos"}},
+{"type": "Feature","geometry": {"type": "Point","coordinates": [ -79.954167,22.405278 ]},"properties": {"type": "town", "name": "Santa Clara"}},
+{"type": "Feature","geometry": {"type": "Point","coordinates": [ -79.984444,21.804444 ]},"properties": {"type": "town", "name": "Trinidad"}},
+{"type": "Feature","geometry": {"type": "Point","coordinates": [ -75.813917,20.019833 ]},"properties": {"type": "town", "name": "Santiago de Cuba"}},
+{"type": "Feature","geometry": {"type": "Point","coordinates": [ -74.510556,20.348611 ]},"properties": {"type": "town", "name": "Baracoa"}},
+{"type": "Feature","geometry": {"type": "Point","coordinates": [ -77.905833,21.381111 ]},"properties": {"type": "town", "name": "Camagüey"}}
+]}

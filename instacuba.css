@@ -1,0 +1,21 @@
+/* CSS declarations go here */
+body {
+	color: #CCC;
+}
+
+.background {
+  fill: none;
+  pointer-events: all;
+}
+
+#country {
+  fill: #CCC;
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+path.town {
+	    fill: #666;
+		stroke: #000;
+}
+
